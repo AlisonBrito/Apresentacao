@@ -37,7 +37,7 @@
     <h1>Bem Vindo ao meu primeiro portfólio!</h1>
     <h1>Quem sou eu?</h1>
     <p><img src="Sem título-2.png" alt="Minha foto"></p>
-    <p>Olá! Meu nome é <b>Alison Brito</b>, estou cursando Desenvolvimento de sistemas no Senai-SC/Brsuque e também estou fazendo curso de HMTL e CSS no Curso em Vídeo.</p>
+    <p>Olá! Meu nome é <b>Alison Brito</b>, estou cursando Desenvolvimento de sistemas no Senai-SC/Brusque e também estou fazendo curso de HMTL e CSS no Curso em Vídeo.</p>
     <p>Lingugens que já tenho conhecimento e estou aprendendo no momento:</p>
     <ul>
         <li><img src="c (2).png" alt=""> | C++</li>
